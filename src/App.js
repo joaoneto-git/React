@@ -1,9 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
+import Portfolio from './components/Portifolio';
 
 function App() {
   return (
-    <SuperMarioReact />
+      <Portfolio />
   );
 }
 

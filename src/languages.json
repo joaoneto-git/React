@@ -1,0 +1,19 @@
+{
+    "contact":{
+        "name": "João Cavalcante",
+        "email": "joaocavalcante25@gmail.com",
+        "phone": "+55 (67) 99121-3039",
+        "linkedin": "linkedin.com/in/joaoneto-in",
+        "github": "guthub.com/joaoneto-git"
+
+    },
+    "portugues":{
+        "name": "Nome",
+        "email": "E-mail",
+        "phone": "Telefone",
+        "home": "Inicio",
+        "about": "Sobre",
+        "contact": "Contato",
+        "services": "Serviços"
+    }
+}

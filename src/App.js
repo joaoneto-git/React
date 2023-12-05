@@ -1,5 +1,4 @@
 import './App.css';
-import './input.css';
 import Portfolio from './components/Portifolio';
 
 function App() {

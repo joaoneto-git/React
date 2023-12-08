@@ -16,6 +16,8 @@ import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import PdfViewer from "./components/PdfViewer";
+import SoftSkills from "./Assets/Projects/SoftSkills.pdf"
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -39,6 +41,7 @@ function App() {
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Resume />} />
+          <Route path="/soft-skills-for-software-enginner" element={<PdfViewer href={SoftSkills} />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />

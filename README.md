@@ -3,12 +3,6 @@
   <a href="https://joaoneto.tech/" target="_blank">joaoneto.tech</a>
 </h2>
 
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [joaoneto-git](https://github.com/joaoneto-git/React). Thanks!
-
-## Built With
-
 My personal portfolio <a href="https://joaoneto.tech/" target="_blank">joaoneto.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.

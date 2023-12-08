@@ -26,7 +26,7 @@ function PdfViewer(props){
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
-            &nbsp;Download CV
+            &nbsp;Visualizar
           </Button>
         </Row>
 
@@ -44,7 +44,7 @@ function PdfViewer(props){
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
-            &nbsp;Download CV
+            &nbsp;Vizualizar
           </Button>
         </Row>
       </Container>

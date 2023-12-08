@@ -11,8 +11,7 @@ function Type() {
           "Desenvolvedor FullStack",
         ],
         autoStart: true,
-        loop: true,
-        deleteSpeed: 25,
+        loop: true
       }}
     />
   );
